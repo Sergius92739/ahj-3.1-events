@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kg6o4cnvv5lqvgy9/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-3-1-events/branch/master)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать менеджер пакетов yarn (а значит, никакого `package-lock.json` в репозитории быть не должно)
