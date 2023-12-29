@@ -34,7 +34,7 @@ module.exports = {
         use: [
           MiniCssExtractPlugin.loader, 'css-loader',
         ],
-      }
+      },
     ],
   },
   plugins: [
